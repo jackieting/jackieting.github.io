@@ -1,0 +1,122 @@
+/*CSS DOCUMENT*/
+
+@import url("https://use.typekit.net/vbr7ajn.css");
+
+html, body, div, span, applet, object, iframe,h1, h2, h3, h4, h5, h6, p, blockquote, pre,a, abbr, acronym, address, big, cite, code,del, dfn, em, img, ins, kbd, q, s, samp,small, strike, strong, sub, sup, tt, var,b, u, i, center,dl, dt, dd, ol, ul, li,fieldset, form, label, legend,table, caption, tbody, tfoot, thead, tr, th, td,article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary,time, mark, audio, video {margin: 0;	padding: 0;	border: 0;	vertical-align: baseline;}
+img {
+    width: 100% 
+}
+
+body {
+	font-family: brandon-grotesque, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	background-color: #f7e9d5;
+	margin: 0em 1em 0em 1em;
+}
+
+div.container {
+	max-width: 60em;
+	margin: auto;
+}
+
+h1 a img {
+	width: 20%;
+	padding: 0.5em 0em 1em 1em;
+}
+
+nav ul { 
+	padding-bottom: 1em; 
+	margin: 0em;
+} 
+
+nav ul li {
+	display: inline;
+	list-style-type: none;
+	margin-right: 1.5em;
+	letter-spacing: 0.05em; 
+} 
+
+nav ul li a { 
+	text-decoration: none;
+	color: #5f2f0e;
+	font-family: brandon-grotesque, sans-serif;
+	font-weight: 500;
+	font-style: normal;
+	text-transform: uppercase;
+} 
+
+nav ul li a:hover { 
+	color: #e6ba7b;
+} 
+
+h2 {
+	font-family: brandon-grotesque, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	font-size: 2em;
+	margin: 1em 0em 0.5em 0em;
+	color: #5f2f0e;
+}
+
+figure {
+	padding-bottom: 1em;
+}
+
+h3 {
+	color: #ffffff;
+	background-color: #cd9975;
+	padding: 0.25em 1em 0.25em 1em;
+	text-transform: uppercase;
+}
+
+ul {
+	padding-bottom: 1em;
+}
+
+li {
+	list-style-type: none;
+	margin-left: 2em;
+}
+
+h4 {
+	font-family: brandon-grotesque, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	color: #5f2f0e;
+	margin-top: 1em;
+}
+
+p {
+	margin-top: 0.25em;
+}
+
+p.description {
+	margin-bottom: 2em;
+}
+
+p.price {
+	font-family: brandon-grotesque, sans-serif;
+	font-weight: 300;
+	font-style: italic;
+	color: #657452;
+	margin-bottom: 1.25em;
+}
+
+p.phone {
+	font-family: brandon-grotesque, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	color: #657452;
+	padding-bottom: 1em;
+}
+
+footer {
+	font-family: brandon-grotesque, sans-serif;
+	font-weight: 300;
+	font-style: normal;
+	padding: 0.75em 0em 0.75em 0em;
+	text-align: center;
+	color: #ffffff;
+	background-color: #b8bb9b;
+}

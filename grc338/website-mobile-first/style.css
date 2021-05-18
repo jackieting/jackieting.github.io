@@ -107,12 +107,9 @@ p.phone {
 	color: #657452;
 	padding-bottom: 1em;
 }
-
 footer {
 	font-family: brandon-grotesque, sans-serif;
 	font-weight: 300;
 	font-style: normal;
-	padding: 0.5em 0.5em 0.5em 0.5em;
-	color: #ffffff;
-	background-color: #b8bb9b;
+	color: #b8bb9b;
 }

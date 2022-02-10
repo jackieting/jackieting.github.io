@@ -1,0 +1,108 @@
+/*CSS document*/
+
+@import url("https://use.typekit.net/xab7alw.css");
+
+body {
+
+}
+
+div.container {
+    max-width: 40em;
+    margin: auto;
+}
+
+img {
+    width: 100%;
+}
+
+main {
+    margin: 0em 1em auto;
+}
+
+nav {
+    margin: 0em 1em auto;
+}
+
+section {
+    margin: 0em 0em 3em 0em;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+h2 {
+    font-family: chinchilla, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: xx-large;
+}
+
+h3 {
+    font-family: filson-pro, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: medium;
+    margin: 0em;
+}
+
+p {
+    font-family: filson-pro, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+li {
+    font-family: filson-pro, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #223342;
+}
+
+h3.mainstory {
+    font-family: chinchilla, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: x-large;
+}
+
+p.mainstory {
+    font-size: larger;
+}
+
+a:link {
+  text-decoration: none;
+  color: black;
+}
+
+a:visited {
+  text-decoration: none;
+  color: #223342;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #C8984F;
+}
+
+a:active {
+  text-decoration: none;
+  color: #C8984F;
+}
+
+figcaption {
+    margin-top: 0.2em;
+    font-family: filson-pro, sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    color: #223342;
+}
+
+footer {
+    font-family: filson-pro, sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    font-size: small;
+    color: #DBC09E;
+}

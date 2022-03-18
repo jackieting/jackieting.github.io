@@ -139,7 +139,7 @@ nav.gallery {
 }
 
 nav.gallery label img {
-    height: 100px;
+    height: 6.25em;
     object-fit: cover;
 }
 
@@ -269,7 +269,7 @@ section {
     }
 
     section.secondarysstory a figure img {
-        max-height: 133px;
+        max-height: 8.3em;
     }
 
     article {
